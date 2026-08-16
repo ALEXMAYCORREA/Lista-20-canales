@@ -266,4 +266,18 @@ https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 
 #EXTINF:-1,ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.
+#EXTINF:-1,Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1,Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1,Bloomberg TV EMEA
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1,Bolivia TV 7.2
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
+#EXTINF:-1,BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
