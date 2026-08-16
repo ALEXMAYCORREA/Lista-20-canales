@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Canal 5
+http://45.181.87.106/CANAL5HD/index.m3u8
+
+#EXTINF:-1,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1,Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1,Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1,ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
