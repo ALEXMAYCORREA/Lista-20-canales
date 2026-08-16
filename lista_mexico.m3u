@@ -251,3 +251,19 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 
 #EXTINF:-1,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTM3U
+
+#EXTINF:-1,BabyFirst Spanish
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
+
+#EXTINF:-1,Canal 66 Mexicali
+https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
+
+#EXTINF:-1,Aquí y Ahora
+https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
+
+#EXTINF:-1,Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF:-1,ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
